@@ -1,4 +1,4 @@
-# florma2002-design.github.io
+
 # ¡Hola! 👋 Soy Flor
 
 Economista con interés en la tecnología. Actualmente estoy aprendiendo HTML, CSS, y ciberseguridad, y en este perfil comparto los proyectos que desarrollo para fortalecer mis habilidades y seguir creciendo como profesional.
